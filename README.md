@@ -14,3 +14,5 @@ conda install --yes pandas
 conda install --yes scikit-learn
 
 ```
+fishers-iris tutorial  
+https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
