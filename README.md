@@ -11,5 +11,6 @@ conda install --yes scipy
 conda install --yes numpy
 conda install --yes matplotlib
 conda install --yes pandas
-conda install --yes sklearn
+conda install --yes scikit-learn
+
 ```
